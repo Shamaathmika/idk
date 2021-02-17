@@ -1,0 +1,8 @@
+body { background-image: url("Wallpaper.png") ;}
+table {width:600px; margin-left:auto; margin-right:auto; border-style:none; }
+td {padding: 10px; border-style:none;}
+h1,h2,h3,li{font-family:Arial,Calibri,sans-serif;}
+h1,h2 {color:red;}
+h1 {font-size:36pt; text-align:center;}
+h2 {font-size:24pt; text-align:left;}
+h3,li {color:blue; font-size:14pt; text-align:justify;}
